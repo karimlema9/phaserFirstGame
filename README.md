@@ -11,4 +11,4 @@ To run the game:
 
 - http-server
 
-Click [here]() to play DEMO!
+Click [here](https://karimlema9.github.io/phaserFirstGame/) to play DEMO!
